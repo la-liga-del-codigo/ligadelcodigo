@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Criptomonedas con Amhed Herrera - Liga del Código 012"
+title: "Episodio 12: Criptomonedas con Amhed Herrera"
 date: 2019-07-18 00:00:00
 guid: dd17f770-2c39-4c1b-a3ce-db6c5f50af8b
 duration: "01:06:30"
