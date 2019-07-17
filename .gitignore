@@ -1,0 +1,11 @@
+_site
+.sass-cache
+.jekyll-metadata
+.*.sw*
+.DS_Store
+*.md-e*
+trello-auth.json
+ve
+__pycache__
+.bundle
+vendor
