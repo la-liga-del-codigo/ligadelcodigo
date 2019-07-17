@@ -5,7 +5,7 @@ date: 2019-06-20 00:00:00
 guid: 0d4e78aa-b9e6-477a-8525-4f46bdb81bb2
 duration: "24:42"
 length: 47933391
-file: "https://la-liga-del-codigo.github.io/website/files/2019-06-27-sindrome-del-impostor.mp3"
+file: "https://media.githubusercontent.com/media/la-liga-del-codigo/ligadelcodigo/master/files/2019-06-27-sindrome-del-impostor.mp3"
 categories: episode
 enable_comments: true
 ---

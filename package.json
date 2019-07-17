@@ -4,7 +4,7 @@
   "description": "Liga del codigo",
   "repository": {
     "type": "git",
-    "url": "git@github.com:la-liga-del-codigo/website.git"
+    "url": "git@github.com:la-liga-del-codigo/ligadelcodigo.git"
   },
   "author": "Liga del codigo",
   "license": "MIT",

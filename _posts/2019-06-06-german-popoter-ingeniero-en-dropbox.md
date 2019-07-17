@@ -5,7 +5,7 @@ date: 2019-06-06 00:00:00
 guid: b9fe29de-ce89-43eb-9b2a-38c8caac4292
 duration: "31:49"
 length: 45816000
-file: "https://la-liga-del-codigo.github.io/website/files/2019-06-06-german-popoter-ingeniero-en-dropbox.mp3"
+file: "https://media.githubusercontent.com/media/la-liga-del-codigo/ligadelcodigo/master/files/2019-06-06-german-popoter-ingeniero-en-dropbox.mp3"
 categories: episode
 enable_comments: true
 ---

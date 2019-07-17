@@ -5,7 +5,7 @@ date: 2019-05-01 00:00:00
 guid: b13c61c0-b6c0-4872-bcc2-93611413c602
 duration: "29:43"
 length: 42792000
-file: "https://la-liga-del-codigo.github.io/website/files/2019-05-01-Que-hacer-para-obtener-un-trabajo-como-software-developer.mp3"
+file: "https://media.githubusercontent.com/media/la-liga-del-codigo/ligadelcodigo/master/files/2019-05-01-Que-hacer-para-obtener-un-trabajo-como-software-developer.mp3"
 categories: episode
 enable_comments: true
 ---

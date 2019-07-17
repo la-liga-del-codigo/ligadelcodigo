@@ -5,7 +5,7 @@ date: 2019-07-11 00:00:00
 guid: 5176c986-bc22-4686-a02f-3398f1da1dee
 duration: "30:51"
 length: 59785025
-file: "https://la-liga-del-codigo.github.io/website/files/2019-07-11-tips-para-convertir-una-idea-en-un-negocio.mp3"
+file: "https://media.githubusercontent.com/media/la-liga-del-codigo/ligadelcodigo/master/files/2019-07-11-tips-para-convertir-una-idea-en-un-negocio.mp3"
 categories: episode
 enable_comments: true
 ---

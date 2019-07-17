@@ -5,7 +5,7 @@ date: 2019-06-20 00:00:00
 guid: fdf9b71e-93fd-4a1d-86e5-259730d8c7d9
 duration: "39:55"
 length: 77334223
-file: "https://la-liga-del-codigo.github.io/website/files/2019-06-20-como-ser-exitoso-en-tu-proxima-entrevista-de-trabajo.mp3"
+file: "https://media.githubusercontent.com/media/la-liga-del-codigo/ligadelcodigo/master/files/2019-06-20-como-ser-exitoso-en-tu-proxima-entrevista-de-trabajo.mp3"
 categories: episode
 enable_comments: true
 ---

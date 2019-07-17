@@ -5,7 +5,7 @@ date: 2019-06-13 00:00:00
 guid: 9962aa30-7b9e-4fa3-8720-9d6bca17d74c
 duration: "29:36"
 length: 57181233
-file: "https://la-liga-del-codigo.github.io/website/files/2019-06-13-proyectos-personales.mp3"
+file: "https://media.githubusercontent.com/media/la-liga-del-codigo/ligadelcodigo/master/files/2019-06-13-proyectos-personales.mp3"
 categories: episode
 enable_comments: true
 ---

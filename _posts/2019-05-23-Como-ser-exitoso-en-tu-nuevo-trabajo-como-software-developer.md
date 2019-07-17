@@ -5,7 +5,7 @@ date: 2019-05-23 00:00:00
 guid: 70f5ef5e-f943-4548-a55c-955eb1bb33c0
 duration: "20:07"
 length: 28968000
-file: "https://la-liga-del-codigo.github.io/website/files/2019-05-23-Como-ser-exitoso-en-tu-nuevo-trabajo-como-software-developer.mp3"
+file: "https://media.githubusercontent.com/media/la-liga-del-codigo/ligadelcodigo/master/files/2019-05-23-Como-ser-exitoso-en-tu-nuevo-trabajo-como-software-developer.mp3"
 categories: episode
 enable_comments: true
 ---

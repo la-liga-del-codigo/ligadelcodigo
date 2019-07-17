@@ -5,7 +5,7 @@ date: 2019-05-16 00:00:00
 guid: b58b23e7-8456-4544-a31d-f4c7b151f42b
 duration: "28:29"
 length: 41016000
-file: "https://la-liga-del-codigo.github.io/website/files/2019-05-16-Como-aprender-un-nuevo-framework-lenguaje.mp3"
+file: "https://media.githubusercontent.com/media/la-liga-del-codigo/ligadelcodigo/master/files/2019-05-16-Como-aprender-un-nuevo-framework-lenguaje.mp3"
 categories: episode
 enable_comments: true
 ---
