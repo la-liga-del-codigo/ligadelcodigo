@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Episodio 13: Code Reviews"
-date: 2019-07-18 00:00:00
+date: 2019-07-25 00:00:00
 guid: 3d73550b-1f4d-429a-91c6-f953dc6af848
 duration: "32:26"
 length: 62973669
