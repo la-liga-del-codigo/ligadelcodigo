@@ -10,7 +10,7 @@ categories: episode
 enable_comments: true
 ---
 
-Youtube: 
+Youtube: https://youtu.be/nsWRnMaaCMc
 
 Conflictos en el trabajo - Liga del Código 014
 
