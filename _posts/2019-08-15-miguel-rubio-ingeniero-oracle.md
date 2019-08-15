@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Episodio 16: Entrevista a Miguel Rubio, Ingeniero en Oracle"
-date: 2019-08-08 00:00:00
+date: 2019-08-15 00:00:00
 guid: 5d19db18-33d0-4e08-9b83-e9cdc46113f1
 duration: "36:45"
 length: 3023737137
