@@ -20,4 +20,4 @@ En este episodio participan:
 <br/>Manuel Mejía - https://twitter.com/mejiamanuel57
 <br/>
 <br/>Invitado: 
-<br/>Miguel Rubio - https://twitter.com/MRubiojimenez
+<br/>Miguel Rubio - https://twitter.com/guerllaje
