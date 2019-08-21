@@ -14,7 +14,7 @@ Youtube: https://youtu.be/5r4OCifACiU
 
 Entrevista a Caleb De La Cruz, Ingeniero en Google/Youtube - Liga del Código 017
 
-En este episodio hablamos con Caleb de la Cruz acerca de su experiencia en empresas como Pinterest y Google. Conocemos como llego a apasionarse por el código, los procesos que ha pasado para llegar a su posición actual y cuales son algunas de las cosas con las que trabaja día a día en Youtube.
+En este episodio hablamos con Caleb de la Cruz acerca de su experiencia en empresas como Pinterest y Google. Conocemos como llegó a apasionarse por el código, los procesos que ha pasado para llegar a su posición actual y cuales son algunas de las cosas con las que trabaja día a día en Youtube.
 
 
 En este episodio participan:
