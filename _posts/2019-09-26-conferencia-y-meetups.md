@@ -12,10 +12,17 @@ enable_comments: true
 
 Youtube: https://youtu.be/XvlLgh8oHZQ
 
-Conferencias y meetups - Liga del Código 022
+# Conferencias y Meetups
+En este episodio nuestros hosts Winner, Manuel (Tita) y Tomás nos cuentan sobre sus puntos de vista respecto a las conferencias y meetups, hablan de beneficios, sus experiencias, dan recomendaciones al momento de participar o dirigir una.
 
-Bienvenidos a la liga del código, un podcast de developers para developers.
+### Eventos mencionados
+- CDC 2019, República Dominicana https://cdc.dev/
+- VueConf Toronto 2019, Canadá https://vuetoronto.com
+- NordicJS 2019, Suecia https://nordicjs.com
+- Meetup friajs https://www.facebook.com/friajs/
 
-Este es el episodio número 22 en el cual hablamos sobre meetups y conferencias. Mencionamos algunos de los beneficios de asistir a este tipo de actividades, los beneficios de ser charlista y nuestras experiencias.
+### Enlaces
+- Entérate de eventos cerca de ti en https://www.meetup.com
 
-Disfruten!
+### Fe de errata:
+- La empresa que se refería Tomás en el meetup en Holanda es Nu-lab, su producto es Cacoo
