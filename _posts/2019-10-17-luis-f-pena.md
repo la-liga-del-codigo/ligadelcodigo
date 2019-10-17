@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Episodio 25: Luis Peña, Senior Lead Developer"
+title: "Episodio 25: Luis Peña, de Ingeniero Civil a Software Developer"
 date: 2019-10-17 00:00:00
 guid: 5b8d66c8-7779-4d3b-a521-82902866553b
 duration: "44:26"
@@ -10,7 +10,7 @@ categories: episode
 enable_comments: true
 ---
 
-Luis Peña, Senior Lead Developer - Liga del Código 025
+Luis Peña, de Ingeniero Civil a Software Developer - Liga del Código 025
 
 Bienvenidos a la liga del código, un podcast de developers para developers.
 
