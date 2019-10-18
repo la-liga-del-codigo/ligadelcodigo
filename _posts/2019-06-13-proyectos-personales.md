@@ -5,12 +5,10 @@ date: 2019-06-13 00:00:00
 guid: 9962aa30-7b9e-4fa3-8720-9d6bca17d74c
 duration: "29:36"
 length: 57181233
-file: "https://media.githubusercontent.com/media/la-liga-del-codigo/ligadelcodigo/master/files/2019-06-13-proyectos-personales.mp3"
+file: "https://firebasestorage.googleapis.com/v0/b/podcast-f00e9.appspot.com/o/2019-06-13-proyectos-personales.mp3?alt=media&amp;token=271cee16-c5e6-4906-926a-00664493b836"
 categories: episode
 enable_comments: true
 ---
-
-Youtube: https://youtu.be/MurqupBhFOI
 
 Proyectos personales - Liga del Código 007
 
@@ -40,3 +38,5 @@ Empresas que comenzaron como un proyecto personal
 - Twitch
 - Slack
 - MailChimp
+
+Youtube: https://youtu.be/MurqupBhFOI

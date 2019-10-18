@@ -5,12 +5,10 @@ date: 2019-09-05 00:00:00
 guid: 001740ac-d50b-478d-9911-d78781c7a873
 duration: "35:02:01"
 length: 68387886
-file: "https://media.githubusercontent.com/media/la-liga-del-codigo/ligadelcodigo/master/files/2019-09-05-winner-crespo-ingeniero-klarna.mp3"
+file: "https://firebasestorage.googleapis.com/v0/b/podcast-f00e9.appspot.com/o/2019-09-05-winner-crespo-ingeniero-klarna.mp3?alt=media&amp;token=96916b3e-d491-4ee6-b705-dfabe4457c75"
 categories: episode
 enable_comments: true
 ---
-
-Youtube: https://youtu.be/NYMs6TXsx74
 
 Entrevista a Winner Crespo, Ingeniero en Klarna - Liga del Código 019
 
@@ -19,3 +17,5 @@ En este episodio descubre que se siente trabajar en Suecia, en esta edición esc
 En este episodio participan:
 <br/>German Popoter - https://twitter.com/GermanPopoter
 <br/>Winner Crespo - https://twitter.com/WinnerCrespo
+
+Youtube: https://youtu.be/NYMs6TXsx74

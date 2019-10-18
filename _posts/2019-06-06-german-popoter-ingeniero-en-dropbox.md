@@ -5,12 +5,10 @@ date: 2019-06-06 00:00:00
 guid: b9fe29de-ce89-43eb-9b2a-38c8caac4292
 duration: "31:49"
 length: 45816000
-file: "https://media.githubusercontent.com/media/la-liga-del-codigo/ligadelcodigo/master/files/2019-06-06-german-popoter-ingeniero-en-dropbox.mp3"
+file: "https://firebasestorage.googleapis.com/v0/b/podcast-f00e9.appspot.com/o/2019-06-06-german-popoter-ingeniero-en-dropbox.mp3?alt=media&amp;token=1aeb9d83-b582-4491-b9de-15fb65f18025"
 categories: episode
 enable_comments: true
 ---
-
-Youtube: https://youtu.be/sbcqL2td2ek
 
 German Popoter, Ingeniero en Dropbox - Liga del Código 006
 
@@ -23,3 +21,5 @@ Winner Crespo - https://twitter.com/WinnerCrespo
 <br/>Tomás Veras - https://twitter.com/TomasVeras
 <br/>Manuel Mejia - https://twitter.com/mejiamanuel57
 <br/>Nazaret Ramirez - https://twitter.com/nazaretrm01
+
+Youtube: https://youtu.be/sbcqL2td2ek

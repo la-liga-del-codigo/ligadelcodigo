@@ -5,12 +5,10 @@ date: 2019-08-22 00:00:00
 guid: bb80adf9-07bd-4c72-9340-31c7594dde43
 duration: "01:02:25"
 length: 121832325
-file: "https://media.githubusercontent.com/media/la-liga-del-codigo/ligadelcodigo/master/files/2019-08-22-caleb-ingeniero-google.mp3"
+file: "https://firebasestorage.googleapis.com/v0/b/podcast-f00e9.appspot.com/o/2019-08-22-caleb-ingeniero-google.mp3?alt=media&amp;token=85bcc1be-7e50-4c7f-8750-eb0d73f823bf"
 categories: episode
 enable_comments: true
 ---
-
-Youtube: https://youtu.be/5r4OCifACiU
 
 Entrevista a Caleb De La Cruz, Ingeniero en Google/Youtube - Liga del Código 017
 
@@ -36,3 +34,5 @@ En este episodio participan:
 <br/>
 <br/>Invitado: 
 <br/>Caleb de la Cruz - https://twitter.com/delacruzp
+
+Youtube: https://youtu.be/5r4OCifACiU

@@ -5,12 +5,10 @@ date: 2019-07-11 00:00:00
 guid: 5176c986-bc22-4686-a02f-3398f1da1dee
 duration: "30:51"
 length: 59785025
-file: "https://media.githubusercontent.com/media/la-liga-del-codigo/ligadelcodigo/master/files/2019-07-11-tips-para-convertir-una-idea-en-un-negocio.mp3"
+file: "https://firebasestorage.googleapis.com/v0/b/podcast-f00e9.appspot.com/o/2019-07-11-tips-para-convertir-una-idea-en-un-negocio.mp3?alt=media&amp;token=f0105463-65e0-4e23-95ab-d0e125dcda90"
 categories: episode
 enable_comments: true
 ---
-
-Youtube: https://youtu.be/v9KR5MSmbxY
 
 Tips para convertir una idea en un negocio - Liga del Código 011
 
@@ -21,3 +19,5 @@ Winner Crespo - https://twitter.com/winnercrespo
 En este episodio hablamos un poco de cómo proponer una idea de negocio a un developer de la manera correcta. De igual forma, mencionamos algunos tips de cómo validar tu idea de negocio incluso antes de crear un producto, algunos modelos de negocios que pudieran funcionarte y cómo iterar sobre el proyecto para crecer al nivel deseado.
 
 Disfruten.
+
+Youtube: https://youtu.be/v9KR5MSmbxY

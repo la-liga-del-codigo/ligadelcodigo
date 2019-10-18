@@ -5,12 +5,10 @@ date: 2019-07-18 00:00:00
 guid: dd17f770-2c39-4c1b-a3ce-db6c5f50af8b
 duration: "01:06:30"
 length: 129033052
-file: "https://media.githubusercontent.com/media/la-liga-del-codigo/ligadelcodigo/master/files/2019-07-18-criptomonedas-con-amhed-herrera.mp3"
+file: "https://firebasestorage.googleapis.com/v0/b/podcast-f00e9.appspot.com/o/2019-07-18-criptomonedas-con-amhed-herrera.mp3?alt=media&amp;token=fedc8ca5-ce72-4e38-913f-dd2aff294a0a"
 categories: episode
 enable_comments: true
 ---
-
-Youtube: https://youtu.be/euNk-T2F_UA
 
 Criptomonedas con Amhed Herrera - Liga del Código 012
 
@@ -28,3 +26,5 @@ En este episodio nos acompaña Amhed Herrera quien se ha especializado en cripto
 ### Mantente actualizado
  ⁃ https://twitter.com/amhedH (https://twitter.com/amhedH)
  ⁃ https://messari.io (https://messari.io/)
+
+Youtube: https://youtu.be/euNk-T2F_UA

@@ -5,12 +5,12 @@ date: 2019-05-16 00:00:00
 guid: b58b23e7-8456-4544-a31d-f4c7b151f42b
 duration: "28:29"
 length: 41016000
-file: "https://media.githubusercontent.com/media/la-liga-del-codigo/ligadelcodigo/master/files/2019-05-16-Como-aprender-un-nuevo-framework-lenguaje.mp3"
+file: "https://firebasestorage.googleapis.com/v0/b/podcast-f00e9.appspot.com/o/2019-05-16-Como-aprender-un-nuevo-framework-lenguaje.mp3?alt=media&amp;token=0a859c66-02e6-48e7-93fe-30af25e6a3ba"
 categories: episode
 enable_comments: true
 ---
 
-Youtube: https://youtu.be/5eQPiiuejoI
+¿Cómo aprender un nuevo framework/lenguaje? -  - Liga del Código 003
 
 Winner Crespo - https://twitter.com/WinnerCrespo
 <br/>Tomás Veras - https://twitter.com/TomasVeras
@@ -31,3 +31,5 @@ Winner Crespo - https://twitter.com/WinnerCrespo
 - Gulp: https://gulpjs.com/
 - Grunt: https://gruntjs.com/
 - React create app: https://github.com/facebook/create-react-app
+
+Youtube: https://youtu.be/5eQPiiuejoI

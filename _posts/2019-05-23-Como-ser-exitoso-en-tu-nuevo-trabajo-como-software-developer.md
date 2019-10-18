@@ -5,12 +5,12 @@ date: 2019-05-23 00:00:00
 guid: 70f5ef5e-f943-4548-a55c-955eb1bb33c0
 duration: "20:07"
 length: 28968000
-file: "https://media.githubusercontent.com/media/la-liga-del-codigo/ligadelcodigo/master/files/2019-05-23-Como-ser-exitoso-en-tu-nuevo-trabajo-como-software-developer.mp3"
+file: "https://firebasestorage.googleapis.com/v0/b/podcast-f00e9.appspot.com/o/2019-05-23-Como-ser-exitoso-en-tu-nuevo-trabajo-como-software-developer.mp3?alt=media&amp;token=333ea58a-70ca-4c81-9010-ec74fa408bf2"
 categories: episode
 enable_comments: true
 ---
 
-Youtube: https://youtu.be/bh-Lz-NWNQ4
+¿Cómo ser exitoso en tu nuevo trabajo como software developer? -  - Liga del Código 004
 
 Winner Crespo - https://twitter.com/WinnerCrespo
 <br/>Tomás Veras - https://twitter.com/TomasVeras
@@ -20,3 +20,5 @@ Winner Crespo - https://twitter.com/WinnerCrespo
 Felicidades, ya conseguiste el trabajo que tanto deseaste. Ahora te preguntas, que hacer para ser exitoso en el mismo?
 
 Durante el episodio, mencionamos algunas técnicas que las empresas utilizan durante el on boarding como son pair programming  y mentoring. Este video habla un poco más profundo de las ventajas de ambas https://youtu.be/qe1ZAy2yNvE
+
+Youtube: https://youtu.be/bh-Lz-NWNQ4

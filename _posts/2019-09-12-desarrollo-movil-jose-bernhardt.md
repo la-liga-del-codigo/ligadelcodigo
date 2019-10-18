@@ -5,12 +5,10 @@ date: 2019-09-12 00:00:00
 guid: fea7e2b5-e811-4fc2-9a9e-70f57dea4e24
 duration: "50:59"
 length: 98493635
-file: "https://media.githubusercontent.com/media/la-liga-del-codigo/ligadelcodigo/master/files/2019-09-12-desarrollo-movil-jose-bernhardt.mp3"
+file: "https://firebasestorage.googleapis.com/v0/b/podcast-f00e9.appspot.com/o/2019-09-12-desarrollo-movil-jose-bernhardt.mp3?alt=media&amp;token=e2d91472-df3e-4d59-9bb6-8e5fd72d5449"
 categories: episode
 enable_comments: true
 ---
-
-Youtube: https://youtu.be/TByet2phGs4
 
 Desarrollo móvil con José Bernhardt - Liga del Código 020
 
@@ -41,3 +39,5 @@ En este episodio tenemos a José Bernhardt como invitado quien en los últimos a
 En este episodio participan:
 Tomás Veras - https://twitter.com/TomasVeras
 <br/>José Bernhardt - https://twitter.com/jbernhardt23
+
+Youtube: https://youtu.be/TByet2phGs4

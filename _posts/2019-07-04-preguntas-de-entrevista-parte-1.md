@@ -5,12 +5,10 @@ date: 2019-07-04 00:00:00
 guid: 374e5931-63bc-4242-ba3a-18f3952e4c9c
 duration: "47:47"
 length: 92835419
-file: "https://media.githubusercontent.com/media/la-liga-del-codigo/ligadelcodigo/master/files/2019-07-04-preguntas-de-entrevista-parte-1.mp3"
+file: "https://firebasestorage.googleapis.com/v0/b/podcast-f00e9.appspot.com/o/2019-07-04-preguntas-de-entrevista-parte-1.mp3?alt=media&amp;token=8b5cb063-e500-4918-be70-ca71a599afa9"
 categories: episode
 enable_comments: true
 ---
-
-Youtube: https://youtu.be/o57wuAr1z8g
 
 Preguntas de entrevista (parte 1)  - Liga del Código 010
 
@@ -50,3 +48,5 @@ Tips para:
 - What the heck is event loop (https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 - Cracking the Coding Interview (https://www.amazon.com/dp/0984782850/ref=cm_sw_em_r_mt_dp_U_ZY-gDbJPJ9Q4T)
 - Salarios en Glassdoor https://www.glassdoor.com/Salaries/index.htm
+
+Youtube: https://youtu.be/o57wuAr1z8g

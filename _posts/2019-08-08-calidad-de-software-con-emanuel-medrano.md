@@ -5,12 +5,10 @@ date: 2019-08-08 00:00:00
 guid: 19bb2f9d-493e-4b25-9dfa-918669acfed2
 duration: "48:21"
 length: 93809110
-file: "https://media.githubusercontent.com/media/la-liga-del-codigo/ligadelcodigo/master/files/2019-08-08-calidad-de-software-con-emanuel-medrano.mp3"
+file: "https://firebasestorage.googleapis.com/v0/b/podcast-f00e9.appspot.com/o/2019-08-08-calidad-de-software-con-emanuel-medrano.mp3?alt=media&amp;token=90f942e8-e488-4099-9e87-e7158900ad2f"
 categories: episode
 enable_comments: true
 ---
-
-Youtube: https://youtu.be/de-VjCza0FU
 
 Calidad de Software con Emanuel Medrano, Software Test Engineer - Liga del Código 015
 
@@ -21,3 +19,5 @@ En este episodio participan:
 <br/>
 <br/>Invitado: 
 <br/>Emanuel Medrano - https://twitter.com/EmanuelMedranoG
+
+Youtube: https://youtu.be/de-VjCza0FU

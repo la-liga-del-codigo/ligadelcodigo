@@ -5,12 +5,10 @@ date: 2019-06-20 00:00:00
 guid: fdf9b71e-93fd-4a1d-86e5-259730d8c7d9
 duration: "39:55"
 length: 77334223
-file: "https://media.githubusercontent.com/media/la-liga-del-codigo/ligadelcodigo/master/files/2019-06-20-como-ser-exitoso-en-tu-proxima-entrevista-de-trabajo.mp3"
+file: "https://firebasestorage.googleapis.com/v0/b/podcast-f00e9.appspot.com/o/2019-06-20-como-ser-exitoso-en-tu-proxima-entrevista-de-trabajo.mp3?alt=media&amp;token=7e62507e-f50b-44b4-b315-5a8a5681bc1c"
 categories: episode
 enable_comments: true
 ---
-
-Youtube: https://youtu.be/KDetTQV1Sus
 
 ¿Cómo ser exitoso en tu próxima entrevista de trabajo? - Liga del Código 008
 
@@ -49,3 +47,5 @@ https://triplebyte.com/iv/KFXBQlK/cp
 Tomás Veras - https://twitter.com/TomasVeras
 <br/>German Popoter - https://twitter.com/GermanPopoter
 <br/>Manuel Mejia - https://twitter.com/mejiamanuel57
+
+Youtube: https://youtu.be/KDetTQV1Sus

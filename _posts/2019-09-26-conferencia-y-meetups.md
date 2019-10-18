@@ -5,12 +5,12 @@ date: 2019-09-26 00:00:00
 guid: 463e3b03-ad97-4413-88fd-e44533292686
 duration: "30:38"
 length: 59380695
-file: "https://media.githubusercontent.com/media/la-liga-del-codigo/ligadelcodigo/master/files/2019-09-26-conferencia-y-meetups.mp3"
+file: "https://firebasestorage.googleapis.com/v0/b/podcast-f00e9.appspot.com/o/2019-09-26-conferencia-y-meetups.mp3?alt=media&amp;token=9f9363cf-9efd-4eb8-88d1-d6253d33dfa2"
 categories: episode
 enable_comments: true
 ---
 
-Youtube: https://youtu.be/XvlLgh8oHZQ
+Conferencias y meetups - Liga del Código 022
 
 # Conferencias y Meetups
 En este episodio nuestros hosts Winner, Manuel (Tita) y Tomás nos cuentan sobre sus puntos de vista respecto a las conferencias y meetups, hablan de beneficios, sus experiencias, dan recomendaciones al momento de participar o dirigir una.
@@ -26,3 +26,5 @@ En este episodio nuestros hosts Winner, Manuel (Tita) y Tomás nos cuentan sobre
 
 ### Fe de errata:
 - La empresa que se refería Tomás en el meetup en Holanda es Nu-lab, su producto es Cacoo
+
+Youtube: https://youtu.be/XvlLgh8oHZQ

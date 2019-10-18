@@ -5,12 +5,10 @@ date: 2019-06-20 00:00:00
 guid: 0d4e78aa-b9e6-477a-8525-4f46bdb81bb2
 duration: "24:42"
 length: 47933391
-file: "https://media.githubusercontent.com/media/la-liga-del-codigo/ligadelcodigo/master/files/2019-06-27-sindrome-del-impostor.mp3"
+file: "https://firebasestorage.googleapis.com/v0/b/podcast-f00e9.appspot.com/o/2019-06-27-sindrome-del-impostor.mp3?alt=media&amp;token=319c9f81-7be1-4802-913a-73f6dd90c14d"
 categories: episode
 enable_comments: true
 ---
-
-Youtube: https://youtu.be/98nHng63GSc 
 
 Síndrome del impostor  - Liga del Código 009
 
@@ -20,3 +18,5 @@ Manuel Mejia - https://twitter.com/mejiamanuel57
 <br/>Tomás Veras - https://twitter.com/TomasVeras
 <br/>German Popoter - https://twitter.com/GermanPopoter
 <br/>Winer Crespo - https://twitter.com/winnercrespo
+
+Youtube: https://youtu.be/98nHng63GSc 

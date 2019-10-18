@@ -5,12 +5,12 @@ date: 2019-05-09 00:00:00
 guid: ca98d730-8269-44cf-8f28-4eb5151bb447
 duration: "13:36"
 length: 19584000
-file: "https://media.githubusercontent.com/media/la-liga-del-codigo/ligadelcodigo/master/files/2019-05-09-Como-mantenerse-al-dia-y-evitar-el-FOMO.mp3"
+file: "https://firebasestorage.googleapis.com/v0/b/podcast-f00e9.appspot.com/o/2019-05-09-Como-mantenerse-al-dia-y-evitar-el-FOMO.mp3?alt=media&amp;token=8ac31b80-9090-4e02-a833-6434693c4f87"
 categories: episode
 enable_comments: true
 ---
 
-Youtube: https://youtu.be/7dBHHhqgFZU
+¿Cómo mantenerse al día y evitar el FOMO? -  - Liga del Código 002
 
 Tomás Veras - https://twitter.com/TomasVeras
 <br/>Nazaret Ramirez - https://twitter.com/nazaretrm01
@@ -22,3 +22,5 @@ Podcast y youtubers mencionados
 - Marques Brownlee - https://www.youtube.com/user/marquesb...
 - Dave Lee - https://www.youtube.com/channel/UCVYa...
 - IJustine - https://www.youtube.com/user/ijustine
+
+Youtube: https://youtu.be/7dBHHhqgFZU
