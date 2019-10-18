@@ -5,7 +5,7 @@ date: 2019-10-17 00:00:00
 guid: 5b8d66c8-7779-4d3b-a521-82902866553b
 duration: "44:26"
 length: 86349267
-file: "https://media.githubusercontent.com/media/la-liga-del-codigo/ligadelcodigo/master/files/2019-10-17-luis-f-pena.mp3"
+file: "https://firebasestorage.googleapis.com/v0/b/podcast-f00e9.appspot.com/o/2019-10-17-luis-f-pena.mp3?alt=media&amp;token=4ac20ce3-c9b9-40c6-82a2-25681b0c75f2"
 categories: episode
 enable_comments: true
 ---
