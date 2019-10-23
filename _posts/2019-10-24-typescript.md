@@ -18,4 +18,4 @@ Este es el episodio número 26 en el cual hablamos acerca de Typescript. ¿Qué 
 
 Disfruten!
 
-Youtube: 
+Youtube: https://youtu.be/2qLF7PQZquY
