@@ -5,7 +5,7 @@ date: 2019-06-20 00:00:00
 guid: 0d4e78aa-b9e6-477a-8525-4f46bdb81bb2
 duration: "24:42"
 length: 47933391
-file: "https://firebasestorage.googleapis.com/v0/b/podcast-f00e9.appspot.com/o/2019-06-27-sindrome-del-impostor.mp3?alt=media&amp;token=319c9f81-7be1-4802-913a-73f6dd90c14d"
+file: "https://ligadelcodigo.nyc3.digitaloceanspaces.com/2019-06-27-sindrome-del-impostor.mp3"
 categories: episode
 enable_comments: true
 ---

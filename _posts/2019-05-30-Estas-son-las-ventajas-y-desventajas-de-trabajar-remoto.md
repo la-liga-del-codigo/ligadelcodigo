@@ -5,7 +5,7 @@ date: 2019-05-30 00:00:00
 guid: be457c21-498a-4e52-b3e7-807e37b344c7
 duration: "21:52"
 length: 31488000
-file: "https://firebasestorage.googleapis.com/v0/b/podcast-f00e9.appspot.com/o/2019-05-30-Estas-son-las-ventajas-y-desventajas-de-trabajar-remoto.mp3?alt=media&amp;token=018fb44f-f203-4ed1-bb59-676a0f138738"
+file: "https://ligadelcodigo.nyc3.digitaloceanspaces.com/2019-05-30-Estas-son-las-ventajas-y-desventajas-de-trabajar-remoto.mp3"
 categories: episode
 enable_comments: true
 ---

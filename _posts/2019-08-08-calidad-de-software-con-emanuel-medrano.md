@@ -5,7 +5,7 @@ date: 2019-08-08 00:00:00
 guid: 19bb2f9d-493e-4b25-9dfa-918669acfed2
 duration: "48:21"
 length: 93809110
-file: "https://firebasestorage.googleapis.com/v0/b/podcast-f00e9.appspot.com/o/2019-08-08-calidad-de-software-con-emanuel-medrano.mp3?alt=media&amp;token=90f942e8-e488-4099-9e87-e7158900ad2f"
+file: "https://ligadelcodigo.nyc3.digitaloceanspaces.com/2019-08-08-calidad-de-software-con-emanuel-medrano.mp3"
 categories: episode
 enable_comments: true
 ---

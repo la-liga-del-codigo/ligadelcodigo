@@ -5,7 +5,7 @@ date: 2019-09-26 00:00:00
 guid: 463e3b03-ad97-4413-88fd-e44533292686
 duration: "30:38"
 length: 59380695
-file: "https://firebasestorage.googleapis.com/v0/b/podcast-f00e9.appspot.com/o/2019-09-26-conferencia-y-meetups.mp3?alt=media&amp;token=9f9363cf-9efd-4eb8-88d1-d6253d33dfa2"
+file: "https://ligadelcodigo.nyc3.digitaloceanspaces.com/2019-09-26-conferencia-y-meetups.mp3"
 categories: episode
 enable_comments: true
 ---

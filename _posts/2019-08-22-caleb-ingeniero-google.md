@@ -5,7 +5,7 @@ date: 2019-08-22 00:00:00
 guid: bb80adf9-07bd-4c72-9340-31c7594dde43
 duration: "01:02:25"
 length: 121832325
-file: "https://firebasestorage.googleapis.com/v0/b/podcast-f00e9.appspot.com/o/2019-08-22-caleb-ingeniero-google.mp3?alt=media&amp;token=85bcc1be-7e50-4c7f-8750-eb0d73f823bf"
+file: "https://ligadelcodigo.nyc3.digitaloceanspaces.com/2019-08-22-caleb-ingeniero-google.mp3"
 categories: episode
 enable_comments: true
 ---

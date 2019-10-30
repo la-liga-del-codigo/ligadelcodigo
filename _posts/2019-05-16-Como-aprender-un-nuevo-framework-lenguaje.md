@@ -5,7 +5,7 @@ date: 2019-05-16 00:00:00
 guid: b58b23e7-8456-4544-a31d-f4c7b151f42b
 duration: "28:29"
 length: 41016000
-file: "https://firebasestorage.googleapis.com/v0/b/podcast-f00e9.appspot.com/o/2019-05-16-Como-aprender-un-nuevo-framework-lenguaje.mp3?alt=media&amp;token=0a859c66-02e6-48e7-93fe-30af25e6a3ba"
+file: "https://ligadelcodigo.nyc3.digitaloceanspaces.com/2019-05-16-Como-aprender-un-nuevo-framework-lenguaje.mp3"
 categories: episode
 enable_comments: true
 ---

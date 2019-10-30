@@ -5,7 +5,7 @@ date: 2019-06-13 00:00:00
 guid: 9962aa30-7b9e-4fa3-8720-9d6bca17d74c
 duration: "29:36"
 length: 57181233
-file: "https://firebasestorage.googleapis.com/v0/b/podcast-f00e9.appspot.com/o/2019-06-13-proyectos-personales.mp3?alt=media&amp;token=271cee16-c5e6-4906-926a-00664493b836"
+file: "https://ligadelcodigo.nyc3.digitaloceanspaces.com/2019-06-13-proyectos-personales.mp3"
 categories: episode
 enable_comments: true
 ---

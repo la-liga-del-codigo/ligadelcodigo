@@ -5,7 +5,7 @@ date: 2019-05-09 00:00:00
 guid: ca98d730-8269-44cf-8f28-4eb5151bb447
 duration: "13:36"
 length: 19584000
-file: "https://firebasestorage.googleapis.com/v0/b/podcast-f00e9.appspot.com/o/2019-05-09-Como-mantenerse-al-dia-y-evitar-el-FOMO.mp3?alt=media&amp;token=8ac31b80-9090-4e02-a833-6434693c4f87"
+file: "https://ligadelcodigo.nyc3.digitaloceanspaces.com/2019-05-09-Como-mantenerse-al-dia-y-evitar-el-FOMO.mp3"
 categories: episode
 enable_comments: true
 ---

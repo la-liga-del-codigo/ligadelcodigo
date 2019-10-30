@@ -5,7 +5,7 @@ date: 2019-09-19 00:00:00
 guid: 18f10b6c-6a55-4bab-83a9-519a1d673cfe
 duration: "28:22"
 length: 55437481
-file: "https://firebasestorage.googleapis.com/v0/b/podcast-f00e9.appspot.com/o/2019-09-19-tomas-veras-emigrar-a-otro-pais.mp3?alt=media&amp;token=9bdf467e-9f0a-4d47-b3b7-1fd2ff7bcf92"
+file: "https://ligadelcodigo.nyc3.digitaloceanspaces.com/2019-09-19-tomas-veras-emigrar-a-otro-pais.mp3"
 categories: episode
 enable_comments: true
 ---

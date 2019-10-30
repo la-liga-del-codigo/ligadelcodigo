@@ -5,7 +5,7 @@ date: 2019-07-04 00:00:00
 guid: 374e5931-63bc-4242-ba3a-18f3952e4c9c
 duration: "47:47"
 length: 92835419
-file: "https://firebasestorage.googleapis.com/v0/b/podcast-f00e9.appspot.com/o/2019-07-04-preguntas-de-entrevista-parte-1.mp3?alt=media&amp;token=8b5cb063-e500-4918-be70-ca71a599afa9"
+file: "https://ligadelcodigo.nyc3.digitaloceanspaces.com/2019-07-04-preguntas-de-entrevista-parte-1.mp3"
 categories: episode
 enable_comments: true
 ---

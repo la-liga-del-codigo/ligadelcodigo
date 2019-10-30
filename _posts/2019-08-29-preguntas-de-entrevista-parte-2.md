@@ -5,7 +5,7 @@ date: 2019-08-29 00:00:00
 guid: ef577da5-47ed-4a78-b4f7-93f953fc6879
 duration: "38:56"
 length: 75780466
-file: "https://firebasestorage.googleapis.com/v0/b/podcast-f00e9.appspot.com/o/2019-08-29-preguntas-de-entrevista-parte-2.mp3?alt=media&amp;token=681ba26a-459c-46a2-bf30-9097034ea3c1"
+file: "https://ligadelcodigo.nyc3.digitaloceanspaces.com/2019-08-29-preguntas-de-entrevista-parte-2.mp3"
 categories: episode
 enable_comments: true
 ---

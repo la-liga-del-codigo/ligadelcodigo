@@ -5,7 +5,7 @@ date: 2019-08-01 00:00:00
 guid: 514a4b89-bbc6-4630-8439-ea7130620b4c
 duration: "27:59"
 length: 54270043
-file: "https://firebasestorage.googleapis.com/v0/b/podcast-f00e9.appspot.com/o/2019-08-01-conflictos-en-el-trabajo.mp3?alt=media&amp;token=f0f74c57-a4ec-416f-ade4-e7721a4665e0"
+file: "https://ligadelcodigo.nyc3.digitaloceanspaces.com/2019-08-01-conflictos-en-el-trabajo.mp3"
 categories: episode
 enable_comments: true
 ---

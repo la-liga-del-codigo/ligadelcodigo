@@ -5,7 +5,7 @@ date: 2019-06-06 00:00:00
 guid: b9fe29de-ce89-43eb-9b2a-38c8caac4292
 duration: "31:49"
 length: 45816000
-file: "https://firebasestorage.googleapis.com/v0/b/podcast-f00e9.appspot.com/o/2019-06-06-german-popoter-ingeniero-en-dropbox.mp3?alt=media&amp;token=1aeb9d83-b582-4491-b9de-15fb65f18025"
+file: "https://ligadelcodigo.nyc3.digitaloceanspaces.com/2019-06-06-german-popoter-ingeniero-en-dropbox.mp3"
 categories: episode
 enable_comments: true
 ---

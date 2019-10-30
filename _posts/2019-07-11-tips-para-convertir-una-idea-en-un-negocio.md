@@ -5,7 +5,7 @@ date: 2019-07-11 00:00:00
 guid: 5176c986-bc22-4686-a02f-3398f1da1dee
 duration: "30:51"
 length: 59785025
-file: "https://firebasestorage.googleapis.com/v0/b/podcast-f00e9.appspot.com/o/2019-07-11-tips-para-convertir-una-idea-en-un-negocio.mp3?alt=media&amp;token=f0105463-65e0-4e23-95ab-d0e125dcda90"
+file: "https://ligadelcodigo.nyc3.digitaloceanspaces.com/2019-07-11-tips-para-convertir-una-idea-en-un-negocio.mp3"
 categories: episode
 enable_comments: true
 ---

@@ -5,7 +5,7 @@ date: 2019-08-15 00:00:00
 guid: 5d19db18-33d0-4e08-9b83-e9cdc46113f1
 duration: "36:45"
 length: 3023737137
-file: "https://firebasestorage.googleapis.com/v0/b/podcast-f00e9.appspot.com/o/2019-08-15-miguel-rubio-ingeniero-oracle.mp3?alt=media&amp;token=8c21d3bd-768e-41b5-bfee-8176525bfc9d"
+file: "https://ligadelcodigo.nyc3.digitaloceanspaces.com/2019-08-15-miguel-rubio-ingeniero-oracle.mp3"
 categories: episode
 enable_comments: true
 ---

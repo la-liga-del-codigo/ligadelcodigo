@@ -5,7 +5,7 @@ date: 2019-09-12 00:00:00
 guid: fea7e2b5-e811-4fc2-9a9e-70f57dea4e24
 duration: "50:59"
 length: 98493635
-file: "https://firebasestorage.googleapis.com/v0/b/podcast-f00e9.appspot.com/o/2019-09-12-desarrollo-movil-jose-bernhardt.mp3?alt=media&amp;token=e2d91472-df3e-4d59-9bb6-8e5fd72d5449"
+file: "https://ligadelcodigo.nyc3.digitaloceanspaces.com/2019-09-12-desarrollo-movil-jose-bernhardt.mp3"
 categories: episode
 enable_comments: true
 ---

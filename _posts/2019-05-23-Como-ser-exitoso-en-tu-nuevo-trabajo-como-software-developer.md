@@ -5,7 +5,7 @@ date: 2019-05-23 00:00:00
 guid: 70f5ef5e-f943-4548-a55c-955eb1bb33c0
 duration: "20:07"
 length: 28968000
-file: "https://firebasestorage.googleapis.com/v0/b/podcast-f00e9.appspot.com/o/2019-05-23-Como-ser-exitoso-en-tu-nuevo-trabajo-como-software-developer.mp3?alt=media&amp;token=333ea58a-70ca-4c81-9010-ec74fa408bf2"
+file: "https://ligadelcodigo.nyc3.digitaloceanspaces.com/2019-05-23-Como-ser-exitoso-en-tu-nuevo-trabajo-como-software-developer.mp3"
 categories: episode
 enable_comments: true
 ---

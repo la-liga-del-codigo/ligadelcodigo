@@ -5,7 +5,7 @@ date: 2019-07-18 00:00:00
 guid: dd17f770-2c39-4c1b-a3ce-db6c5f50af8b
 duration: "01:06:30"
 length: 129033052
-file: "https://firebasestorage.googleapis.com/v0/b/podcast-f00e9.appspot.com/o/2019-07-18-criptomonedas-con-amhed-herrera.mp3?alt=media&amp;token=fedc8ca5-ce72-4e38-913f-dd2aff294a0a"
+file: "https://ligadelcodigo.nyc3.digitaloceanspaces.com/2019-07-18-criptomonedas-con-amhed-herrera.mp3"
 categories: episode
 enable_comments: true
 ---

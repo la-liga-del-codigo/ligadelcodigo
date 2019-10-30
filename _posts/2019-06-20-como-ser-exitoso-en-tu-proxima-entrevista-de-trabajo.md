@@ -5,7 +5,7 @@ date: 2019-06-20 00:00:00
 guid: fdf9b71e-93fd-4a1d-86e5-259730d8c7d9
 duration: "39:55"
 length: 77334223
-file: "https://firebasestorage.googleapis.com/v0/b/podcast-f00e9.appspot.com/o/2019-06-20-como-ser-exitoso-en-tu-proxima-entrevista-de-trabajo.mp3?alt=media&amp;token=7e62507e-f50b-44b4-b315-5a8a5681bc1c"
+file: "https://ligadelcodigo.nyc3.digitaloceanspaces.com/2019-06-20-como-ser-exitoso-en-tu-proxima-entrevista-de-trabajo.mp3"
 categories: episode
 enable_comments: true
 ---
