@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Episodio 27: Andres Pineda, Desarrollador Móvil"
+title: "Episodio 27: Hablando de comunidades con Andres Pineda (Pinedax)"
 date: 2019-10-31 00:00:00
 guid: 3e70c171-1405-455e-b2a8-5ac5e90826ac
 duration: "01:27:03"
@@ -10,7 +10,7 @@ categories: episode
 enable_comments: true
 ---
 
-Andres Pineda, Desarrollador Móvil - Liga del Código 027
+Hablando de comunidades con Andres Pineda (Pinedax) - Liga del Código 027
 
 Bienvenidos a la liga del código, un podcast de developers para developers.
 
