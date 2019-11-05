@@ -34,3 +34,5 @@ En este episodio participan:
 - Tomás Veras - https://twitter.com/TomasVeras
 - German Popoter - https://twitter.com/GermanPopoter
 - Manuel Mejía - https://twitter.com/mejiamanuel57
+
+Youtube: https://www.youtube.com/watch?v=gh0ZZTan-RM
