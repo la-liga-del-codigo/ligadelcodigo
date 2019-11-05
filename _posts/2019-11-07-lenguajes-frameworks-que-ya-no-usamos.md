@@ -25,3 +25,5 @@ En este episodio Winner, Manuel, Nazaret y Tomás hablan de tecnologías, proces
 - Winner Crespo - https://twitter.com/winnercrespo
 - Tomás Veras - https://twitter.com/TomasVeras
 - Manuel Mejía - https://twitter.com/mejiamanuel57
+
+Youtube: https://youtu.be/X9QbuLLjke4
