@@ -10,13 +10,16 @@ categories: episode
 enable_comments: true
 ---
 
-Hábitos de productividad - Liga del Código 029
+Este es el episodio número 29 en el cual compartimos algunos de los hábitos que nosotros usamos y que nos ayudan a ser mejores profesionales día a día, dentro y fuera del trabajo. Disfruten!
 
-Bienvenidos a la liga del código, un podcast de developers para developers.
+Enlaces que mencionamos
+The power of Less - Leo Babauta (Español)
+https://www.amazon.com/El-poder-simple-Leo-Babauta/dp/8408158767/ref=pd_sbs_14_t_0/145-0745541-7089502?_encoding=UTF8&pd_rd_i=8408158767&pd_rd_r=8c826cbe-1559-4d89-8225-a45729f2358e&pd_rd_w=5mH5N&pd_rd_wg=8mQu3&pf_rd_p=5cfcfe89-300f-47d2-b1ad-a4e27203a02a&pf_rd_r=B6SAP9PD99H1ZYQH0Z1M&psc=1&refRID=B6SAP9PD99H1ZYQH0Z1M
 
-Este es el episodio número 29 en el cual compartimos algunos de los hábitos que nosotros usamos y que nos ayudan a ser mejores profesionales día a día,  dentro y fuera del trabajo.
+The power of Less - Leo Babauta
+https://www.amazon.com/Power-Less-Limiting-Yourself-Essential/dp/1401309704/ref=sr_1_1?keywords=the+power+of+less&qid=1573758829&s=books&sr=1-1
 
-Disfruten!
+
 
 ### En este episodio participan:
 - Winner Crespo - https://twitter.com/winnercrespo
