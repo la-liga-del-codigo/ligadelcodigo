@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Episodio 31: Acrónimos usados en el desarrollo de software"
+title: "Episodio 32: Acrónimos usados en el desarrollo de software"
 date: 2019-12-05 00:00:00
 guid: 10472673-da8d-45c6-9986-8ffeaac7b54f
 duration: "30:22"
