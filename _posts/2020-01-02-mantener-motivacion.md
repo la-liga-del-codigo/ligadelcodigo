@@ -19,7 +19,7 @@ En este episodio numero 36 hablamos sobre mantener la motivación como desarroll
 Disfruten!
 
 ### En este episodio participan:
-- Tomás Veras - https://www.instagram.com/TomasVeras
+- Tomás Veras - https://twitter.com/TomasVeras
 - German Popoter - https://twitter.com/GermanPopoter
 - Winner Crespo - https://twitter.com/winnercrespo
 
