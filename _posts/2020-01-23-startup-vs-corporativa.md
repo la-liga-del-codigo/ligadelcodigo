@@ -15,7 +15,7 @@ Bienvenidos a la liga del código, un podcast de developers para developers. En 
 Disfruten!
 
 ### En este episodio participan:
-Tomas Veras - https://twitter.com/TomasVeras
-Willy Ovalle - https://twitter.com/wovalle 
+- Tomas Veras - https://twitter.com/TomasVeras
+- Willy Ovalle - https://twitter.com/wovalle 
 
 Youtube: https://youtu.be/MQiboyulahQ
