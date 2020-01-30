@@ -2,7 +2,7 @@
 layout: post
 title: "Episodio 40: Camino a CTO, con Abraham Montás"
 date: 2020-01-30 00:00:00
-guid: 10515616-0c38-48d6-b6a3-07689b66caa4
+guid: b504fe06-6172-4f2e-940e-0c1d948ff2b7
 duration: "39:21"
 length: 76657499
 file: "https://ligadelcodigo.nyc3.digitaloceanspaces.com/2020-01-30-cto-abraham-montas.mp3"
