@@ -1,21 +1,21 @@
 ---
 layout: post
-title: "Episodio 40: Camino a CTO, con Abraham Montás"
-date: 2020-01-30 00:00:00
-guid: b504fe06-6172-4f2e-940e-0c1d948ff2b7
-duration: "39:21"
-length: 76657499
-file: "https://ligadelcodigo.nyc3.digitaloceanspaces.com/2020-01-30-cto-abraham-montas.mp3"
+title: "Episodio 41: [Parte 1] Hablando sobre Open Source y VueJS, con Eduardo San Martin Morote"
+date: 2020-02-06 00:00:00
+guid: 4d9e0dc4-a32f-41fe-97dc-f3b8a12033a2
+duration: "28:16"
+length: 55009645
+file: "https://ligadelcodigo.nyc3.digitaloceanspaces.com/2020-02-06-open-source-eduardo-san-martin-pt1.mp3"
 categories: episode
 enable_comments: true
 ---
 
-Bienvenidos a la liga del código, un podcast de developers para developers. En este episodio numero 40 tenemos de invitado a Abraham Montas, quien nos cuenta sobre su experiencia trabajando en diferentes roles, hablamos sobre los diferentes proyectos en que ha trabajado tanto dentro de una empresa como de forma freelance y nos dice que cosas busca a la hora de reclutar personal técnico.
+Bienvenidos a la Liga del Código, un podcast de developers para developers. En este episodio número 41, tenemos como invitado a Eduardo San Martin Morote quien es actual miembro del Core Team de VueJS, nos relata su trayectoria dentro y fuera de VueJS y nos da sus puntos de vista respecto al open source. 
 
 Disfruten!
 
 ### Invitado:
-- Abraham Montas - https://twitter.com/AbrahamMontas
+- Eduardo San Martin Morote - https://twitter.com/posva
 
 ### En este episodio participan:
 - Tomas Veras - https://twitter.com/TomasVeras
@@ -23,4 +23,4 @@ Disfruten!
 - German Popoter - https://twitter.com/GermanPopoter
 - Manuel Mejía - https://twitter.com/mejiamanuel57
 
-Youtube: https://youtu.be/_K14BXGe8xA
+Youtube: https://youtu.be/gBfxHcn0AGU
