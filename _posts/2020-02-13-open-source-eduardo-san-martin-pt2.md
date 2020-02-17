@@ -2,7 +2,7 @@
 layout: post
 title: "Episodio 42: [Parte 2] Hablando sobre Open Source y VueJS, con Eduardo San Martin Morote"
 date: 2020-02-13 00:00:00
-guid: 62808787-bce2-43f7-89db-de5fded11df4
+guid: 173e8c99-e109-4327-b07f-7afe02ee0468
 duration: "32:33"
 length: 63535356
 file: "https://ligadelcodigo.nyc3.digitaloceanspaces.com/2020-02-13-open-source-eduardo-san-martin-pt2.mp3"
