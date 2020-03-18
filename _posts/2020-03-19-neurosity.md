@@ -21,7 +21,7 @@ Disfruten!
 ### Links:
 Neurosity - https://neurosity.co/
 
-### Invitada:
+### Invitado:
 - Alex Castillo - https://twitter.com/castillo__io
 
 ### En este episodio participan:
