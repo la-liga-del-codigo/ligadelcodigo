@@ -17,4 +17,12 @@ Disfruten!
 
 https://cpbook.net/
 https://codeforces.com/
-http://olimpiadasdeinformatica.org.do...
+http://olimpiadasdeinformatica.org.do/site/
+
+### En este episodio participan:
+- German Popoter - https://twitter.com/GermanPopoter
+- Manuel Mejía - https://twitter.com/mejiamanuel57
+- Tomas Veras - https://twitter.com/TomasVeras
+- Winner Crespo - https://twitter.com/WinnerCrespo
+
+Youtube: https://youtu.be/_4Aa7FS9NwU

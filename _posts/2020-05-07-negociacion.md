@@ -16,3 +16,11 @@ Bienvenidos a la liga del código, un podcast de developers para developers.
 En este episodio número 54 hablamos sobre la negociación al momento de entrar en una nueva empresa, o al momento de negociar un aumento salarial. Comentamos sobre nuestra experiencia y sobre las estrategías que hemos utilizado para lograr esto. 
 
 Disfruten!
+
+### En este episodio participan:
+- German Popoter - https://twitter.com/GermanPopoter
+- Nazaret Ramirez - https://twitter.com/nazaretramen
+- Tomas Veras - https://twitter.com/TomasVeras
+- Winner Crespo - https://twitter.com/WinnerCrespo
+
+Youtube: https://youtu.be/X3DJamrDTts

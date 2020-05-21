@@ -21,3 +21,11 @@ https://adventofcode.com/
 
 Aprendiendo con Naz:
 https://www.youtube.com/channel/UCi7i...
+
+### En este episodio participan:
+- German Popoter - https://twitter.com/GermanPopoter
+- Manuel Mejía - https://twitter.com/mejiamanuel57
+- Tomas Veras - https://twitter.com/TomasVeras
+- Winner Crespo - https://twitter.com/WinnerCrespo
+
+Youtube: https://youtu.be/WiIRQsZTzBQ
