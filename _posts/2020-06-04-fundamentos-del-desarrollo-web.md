@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Episodio 58: Front-end 03 - Fundamentos del desarrollo
+title: 'Episodio 58: Front-end 03 - Fundamentos del desarrollo'
 date: 2020-06-04 00:00:00
 guid: e2690c69-056d-40c5-9857-14d31a3d6a0d
 duration: '13:34'
