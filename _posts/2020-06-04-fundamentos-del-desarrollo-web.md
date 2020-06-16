@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Episodio 58: Front-end 03 - Fundamentos del desarrollo'
+title: 'Episodio 58: Front-end 03 - Fundamentos del desarrollo web'
 date: 2020-06-04 00:00:00
 guid: e2690c69-056d-40c5-9857-14d31a3d6a0d
 duration: '13:34'
@@ -10,7 +10,7 @@ categories: episode
 enable_comments: true
 ---
 
-Front-end 03 - Fundamentos del desarrollo - Liga del Código 058
+Front-end 03 - Fundamentos del desarrollo web - Liga del Código 058
 
 Bienvenidos a la liga del código, un podcast de developers para developers. 
 
