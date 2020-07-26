@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Episodio 65: Front-end 07 - Stack de desarrollo de Javascript'
+title: 'Episodio 65: Front-end 07 - Stack de desarrollo de JavaScript'
 date: 2020-07-26 00:00:00
 guid: 6878e28f-124e-441d-8d89-5ea6fced8b61
 duration: '25:39'
