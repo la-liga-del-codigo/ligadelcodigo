@@ -14,7 +14,7 @@ Front-end 03 - Fundamentos del desarrollo web - Liga del Código 058
 
 Bienvenidos a la liga del código, un podcast de developers para developers. 
 
-En este episodio número 58 continuaremos con la serie de Front-end y hableremos de los fundamentos del desarollo web (HTML, CSS y JavaScript).
+En este episodio número 58 continuaremos con la serie de Front-end y hablaremos de los fundamentos del desarollo web (HTML, CSS y JavaScript).
 
 Disfruten!
 

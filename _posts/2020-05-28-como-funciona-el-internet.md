@@ -14,7 +14,7 @@ Front-end 02 - ¿Cómo funciona el internet? - Liga del Código 057
 
 Bienvenidos a la liga del código, un podcast de developers para developers. 
 
-En este episodio número 57 continuaremos con la serie de Front-end y hableremos de como funciona el internet, esencial  para entender las bases de las aplicaciones web.
+En este episodio número 57 continuaremos con la serie de Front-end y hablaremos de como funciona el internet, esencial  para entender las bases de las aplicaciones web.
 
 Disfruten!
 
