@@ -20,6 +20,6 @@ En este episodio número 69 continuaremos con la serie de Front-end y hableremos
 - Guillermo Rodas - https://twitter.com/glrodasz
 - Tomas Veras - https://twitter.com/TomasVeras
 - Winner Crespo - https://twitter.com/WinnerCrespo
-- Geman Popoter - https://twitter.com/GermanPopoter
+- German Popoter - https://twitter.com/GermanPopoter
 
 Youtube:https://youtu.be/Ccaf-qOPQfY
