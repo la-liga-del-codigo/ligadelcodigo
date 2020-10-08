@@ -11,6 +11,8 @@ enable_comments: true
 ---
 Negociación de salario y beneficios - Liga del Código 054
 
+Formulario para preguntas https://t.co/5dvjqbVwpZ?amp=1
+
 Bienvenidos a la liga del código, un podcast de developers para developers, en este episodio número 76 y esta semana le traemos un rerun del episodio 54 en el cual hablamos sobre la negociación al momento de entrar en una nueva empresa, o al momento de negociar un aumento salarial. Comentamos sobre nuestra experiencia y sobre las estrategias que hemos utilizado para lograr esto. 
 
 Recuerden ir al formulario de preguntas que pueden encontrar en en la descripción de este episodio y en nuestro twitter @LigaDelCodigo y seguir enviando sus preguntas para nosotros compartir nuestras opiniones y sugerencias con ustedes.
