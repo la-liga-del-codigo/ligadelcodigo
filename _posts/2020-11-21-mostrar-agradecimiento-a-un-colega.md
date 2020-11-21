@@ -2,7 +2,7 @@
 layout: post
 title: 'Mostrar agradecimiento a un colega - Liga del Código 081'
 date: 2020-11-21 00:00:00
-guid: 0b9b85e4-360e-4efa-bc5d-23ff87f53c77
+guid: 9ea2acab-96b2-4a43-ae62-8e8233fcde52
 duration: '33:52'
 length: 65185550
 file: 'https://ligadelcodigo.nyc3.digitaloceanspaces.com/2020-11-21-mostrar-agradecimiento-a-un-colega.mp3'
