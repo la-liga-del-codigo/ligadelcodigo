@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 'Cambiar de lenguaje y frontend developer con habilidades para diseñar - Liga del Código 079'
+title: 'Episodio 79: Cambiar de lenguaje y frontend developer con habilidades para diseñar'
 date: 2020-11-04 00:00:00
 guid: 0b7ca6f7-4373-457a-b883-7dbc028572db
 duration: '26:08'
 length: 37654528
-file: 'https://ligadelcodigo.nyc3.digitaloceanspaces.com/2020-11-04-cambiar-de-lenguaje-y-frontend-developer-con-habilidades-para-dise%C3%B1ar.mp3'
+file: 'https://ligadelcodigo.nyc3.digitaloceanspaces.com/2020-11-04-cambiar-de-lenguaje-y-frontend-developer-con-habilidades-para-disenar.mp3'
 categories: episode
 enable_comments: true
 ---

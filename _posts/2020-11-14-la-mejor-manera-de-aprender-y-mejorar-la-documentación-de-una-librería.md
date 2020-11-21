@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 'La mejor manera de aprender y mejorar la documentación de una librería - Liga del Código 080'
+title: 'Episodio 80: La mejor manera de aprender y mejorar la documentación de una librería'
 date: 2020-11-14 00:00:00
 guid: 0b9b85e4-360e-4efa-bc5d-23ff87f53c77
 duration: '24:14'
 length: 34914304
-file: 'https://ligadelcodigo.nyc3.digitaloceanspaces.com/2020-11-14-la-mejor-manera-de-aprender-y-mejorar-la-documentaci%C3%B3n-de-una-librer%C3%ADa.mp3'
+file: 'https://ligadelcodigo.nyc3.digitaloceanspaces.com/2020-11-14-la-mejor-manera-de-aprender-y-mejorar-la-documentacion-de-una-libreria.mp3'
 categories: episode
 enable_comments: true
 ---

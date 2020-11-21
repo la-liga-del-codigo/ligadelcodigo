@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Manejo de correo empresarial - Liga del Código 078'
+title: 'Episodio 78: Manejo de correo empresarial'
 date: 2020-10-29 00:00:00
 guid: 0a9bd0f5-c46f-4d38-869f-09e36a3a0b20
 duration: '41:27'

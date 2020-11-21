@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bootcamp o universidad - Liga del Código 077'
+title: 'Episodio 77: Bootcamp o universidad'
 date: 2020-10-25 00:00:00
 guid: d6799047-4c8e-4b96-9744-5726f5648ad8
 duration: '16:39'
