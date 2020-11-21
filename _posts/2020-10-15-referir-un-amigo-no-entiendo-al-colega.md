@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Referir a un amigo sin habilidades y no entiendo el acento del colega - Liga del Código 076'
+title: 'Episodio 76:  Referir a un amigo sin habilidades y no entiendo el acento del colega'
 date: 2020-10-15 00:00:00
 guid: 767614ae-e634-44af-a4be-104fb8c4ebab
 duration: '23:58'

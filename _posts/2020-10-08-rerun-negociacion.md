@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Episodio 76: (rerun del episodio 54) Negociación de salario y beneficios'
+title: 'Episodio casi 76: (rerun del episodio 54) Negociación de salario y beneficios'
 date: 2020-10-08 00:00:00
 guid: 1c7b21ae-c4ff-463c-adeb-c0d850df053b
 duration: '48:15'

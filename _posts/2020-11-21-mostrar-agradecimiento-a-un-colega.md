@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mostrar agradecimiento a un colega - Liga del Código 081'
+title: 'Episodio 81: Mostrar agradecimiento a un colega'
 date: 2020-11-21 00:00:00
 guid: 9ea2acab-96b2-4a43-ae62-8e8233fcde52
 duration: '33:52'
