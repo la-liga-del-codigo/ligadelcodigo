@@ -5,7 +5,7 @@ date: 2021-02-05 00:00:00
 guid: 0c484a55-8443-4fb6-98d7-e8b276a88298
 duration: '34:40'
 length: 67021242 
-file: 'https://ligadelcodigo.nyc3.cdn.digitaloceanspaces.com/2020-11-21-mostrar-agradecimiento-a-un-colega.mp3'
+file: 'https://ligadelcodigo.nyc3.digitaloceanspaces.com/2021-02-05-cambio-de-carrera-y-el-dia-de-un-sd.mp3'
 categories: episode
 enable_comments: true
 ---
