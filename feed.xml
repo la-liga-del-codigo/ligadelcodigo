@@ -8,17 +8,17 @@ layout: null
     <description>{{ site.description | xml_escape }}</description>
     <itunes:summary>{{ site.description | xml_escape }}</itunes:summary>
 
-    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml" />
+    <atom:link href="{{ "/feed.xml" | prepend: site.url }}" rel="self" type="application/rss+xml" />
 
     <language>es</language>
-    <link>{{ site.url }}{{ site.baseurl }}/</link>
+    <link>{{ site.url }}/</link>
     <managingEditor>Liga del código</managingEditor>
     <webMaster>Liga del código</webMaster>
     <copyright>2019 Liga del código</copyright>
     <lastBuildDate>{{ site.posts.first.date }}</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <image>
-      <link>{{ site.url }}{{ site.baseurl }}</link>
+      <link>{{ site.url }}</link>
       <url>{{ site.podcast_cover_art_url }}</url>
       <title>{{ site.title | xml_escape }}</title>
     </image>
@@ -37,16 +37,16 @@ layout: null
       <item>
         <title>{{ post.title | xml_escape }}</title>
         <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
-        <source url="{{ site.url }}{{ site.baseurl }}">{{ site.title }}</source>
+        <source url="{{ site.url }}">{{ site.title }}</source>
         <guid isPermaLink="false">{{ post.guid }}</guid>
         <itunes:author></itunes:author>
         <itunes:duration>{{ post.duration }}</itunes:duration>
         <enclosure url="{{ post.file }}?source=rss" length="{{ post.length }}" type="audio/mpeg"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle></itunes:subtitle>
-        <description>{{ post.content | xml_escape }}</description>
-        <itunes:summary>{{ post.content | xml_escape }}</itunes:summary>
-        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
+        <description>{{ post.content }}</description>
+        <itunes:summary>{{ post.content }}</itunes:summary>
+        <link>{{ post.youtube }}</link>
       </item>
     {% endfor %}
   </channel>
