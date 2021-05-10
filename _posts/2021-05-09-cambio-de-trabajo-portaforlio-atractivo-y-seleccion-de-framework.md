@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '87: Cambio de trabajo, un CV/portaforlio atractivo y selección de framework'
+title: '87: Cambio de trabajo, un CV/portafolio atractivo y selección de framework'
 date: 2021-05-09 00:00:00
 guid: fbf70273-6578-4bc0-b356-af16f14b0ba7
 duration: '24:28'
@@ -11,7 +11,7 @@ enable_comments: true
 ---
 Envíanos tus preguntas aquí https://forms.gle/16opfwseTyBS1mTr8
 
-Cambio de trabajo, un CV/portaforlio atractivo y selección de framework - Liga del Código 087
+Cambio de trabajo, un CV/portafolio atractivo y selección de framework - Liga del Código 087
 
 Preguntas:
 1. Hola muchachos, me gustaria saber cuando ustedes consideran que es tiempo de cambiar de trabajo? 
