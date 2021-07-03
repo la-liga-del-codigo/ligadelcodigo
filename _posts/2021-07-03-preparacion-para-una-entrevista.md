@@ -16,10 +16,10 @@ Preparación para una entrevista - Liga del Código 088
 Bienvenidos a la liga del código, un podcast de developers para developers, en este episodio número 88 respondemos una pregunta relacionada a como prepararnos para una entrevista en el área de desarrollo.
 
 Links que recomendamos:
-¿Cómo ser exitoso en tu próxima entrevista de trabajo? - https://youtu.be/KDetTQV1Sus
-Preguntas de entrevista (parte 1) - 010 - https://youtu.be/o57wuAr1z8g
-Preguntas de entrevista (parte 2) - https://youtu.be/2wV6LtA9z1s  
-¿Que hacer para obtener un trabajo como software developer? - https://youtu.be/w9HEqWa4GiQ
+- ¿Cómo ser exitoso en tu próxima entrevista de trabajo? - https://youtu.be/KDetTQV1Sus
+- Preguntas de entrevista (parte 1) - 010 - https://youtu.be/o57wuAr1z8g
+- Preguntas de entrevista (parte 2) - https://youtu.be/2wV6LtA9z1s  
+- ¿Que hacer para obtener un trabajo como software developer? - https://youtu.be/w9HEqWa4GiQ
 
 En este episodio participan:
 - Tomas Veras - https://twitter.com/TomasVeras
